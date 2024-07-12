@@ -13,7 +13,7 @@ This repository is about project of computational neuroscience
 ## 4.Implementation
 
 ### 4.1. Dataset
-Under this subsection, you'll find information about the dataset used for your project. It includes details about the dataset source,task, channels, and number of trials. 
+Neural recordings from 84 macaque MT neurons responding to complex motion stimuli 
 
 ### 4.2. Model
 In this subsection, explain your model that you're goning to fit your dataset
